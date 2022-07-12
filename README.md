@@ -1,7 +1,7 @@
 ### Hi there 👋
-<img src="https://media.discordapp.net/attachments/697512026251067472/735486500388601856/spacecat.gif?width=458&height=458" />
 
-
+Currently enjoying my vacation (July/22), reading some books and ranking up my codewars profile 🏝️📖🥋
+<img src="https://www.codewars.com/users/KZTN/badges/large" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-c%C3%A9sar-faustino-3832351a7/)](https://www.linkedin.com/in/kaio-c%C3%A9sar-faustino-3832351a7/)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/kztn)](https://dev.to/kztn)
@@ -20,3 +20,4 @@
 - 💬  Ask me about anything [here](https://github.com/kztn/kztn/issues)
 
 ![KZTN github stats](https://github-readme-stats.vercel.app/api?username=kztn)
+
