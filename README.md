@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Currently enjoying my vacation (July/22), reading some books and ranking up my codewars profile 🏝️📖🥋
+- [UPDATE][14-08-22] Currently focused on job!
+- [UPDATE][14-08-22] Also, I just have started to learn Unity with C# (still in initial steps but completly enjoyable)
+- [UPDATE][14-08-22] Reading Design patterns by Code Guru
+
 <img src="https://www.codewars.com/users/KZTN/badges/large" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-c%C3%A9sar-faustino-3832351a7/)](https://www.linkedin.com/in/kaio-c%C3%A9sar-faustino-3832351a7/)
