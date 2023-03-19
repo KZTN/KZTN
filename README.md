@@ -3,6 +3,7 @@
 - [UPDATE][14-08-22] Currently focused on job!
 - [UPDATE][14-08-22] Also, I just have started to learn Unity with C# (still in initial steps but completly enjoyable)
 - [UPDATE][14-08-22] Reading Design patterns by Code Guru
+- [UPDATE][19-03-23] Working on new self reactive native project
 
 <img src="https://www.codewars.com/users/KZTN/badges/large" />
 
